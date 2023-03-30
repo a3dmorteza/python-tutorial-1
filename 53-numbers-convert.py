@@ -18,3 +18,5 @@ print(c)
 print(type(a))
 print(type(b))
 print(type(c))
+
+# You cannot convert complex numbers into another number type.
